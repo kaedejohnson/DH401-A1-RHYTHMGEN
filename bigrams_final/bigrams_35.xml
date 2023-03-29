@@ -14,13 +14,13 @@
     </scaling>
   </defaults>
   <part-list>
-    <score-part id="P6412f262e4847e5e80b0a30ea09c0370">
+    <score-part id="P058e2c1a0a6448a2c47c3a2545b96aa9">
       <part-name />
-      <score-instrument id="I6898adbe281bc44c9ea6640998f1ec00">
+      <score-instrument id="Iff101652719750c22c150cd8ef8a9adc">
         <instrument-name>Woodblock</instrument-name>
         <instrument-abbreviation>Wd Bl</instrument-abbreviation>
       </score-instrument>
-      <midi-instrument id="I6898adbe281bc44c9ea6640998f1ec00">
+      <midi-instrument id="Iff101652719750c22c150cd8ef8a9adc">
         <midi-channel>10</midi-channel>
         <midi-program>116</midi-program>
         <midi-unpitched>77</midi-unpitched>
@@ -28,7 +28,7 @@
     </score-part>
   </part-list>
   <!--=========================== Part 1 ===========================-->
-  <part id="P6412f262e4847e5e80b0a30ea09c0370">
+  <part id="P058e2c1a0a6448a2c47c3a2545b96aa9">
     <!--========================= Measure 1 ==========================-->
     <measure number="1">
       <attributes>
@@ -46,7 +46,6 @@
         <duration>7560</duration>
         <type>eighth</type>
         <dot />
-        <beam number="1">begin</beam>
       </note>
       <note>
         <pitch>
@@ -55,8 +54,6 @@
         </pitch>
         <duration>2520</duration>
         <type>16th</type>
-        <beam number="1">end</beam>
-        <beam number="2">backward hook</beam>
       </note>
       <note>
         <pitch>

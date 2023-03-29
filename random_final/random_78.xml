@@ -14,13 +14,13 @@
     </scaling>
   </defaults>
   <part-list>
-    <score-part id="P60389cd1f3f6d2ffdfb5d7a2f76fd5b2">
+    <score-part id="P39f4b51388be1a1a44dbfb081743b5c4">
       <part-name />
-      <score-instrument id="I19c1429d8717792dfca9ae35f9393150">
+      <score-instrument id="I125eed6a7548d132eb0ffe6f2b6f5ab1">
         <instrument-name>Woodblock</instrument-name>
         <instrument-abbreviation>Wd Bl</instrument-abbreviation>
       </score-instrument>
-      <midi-instrument id="I19c1429d8717792dfca9ae35f9393150">
+      <midi-instrument id="I125eed6a7548d132eb0ffe6f2b6f5ab1">
         <midi-channel>10</midi-channel>
         <midi-program>116</midi-program>
         <midi-unpitched>77</midi-unpitched>
@@ -28,7 +28,7 @@
     </score-part>
   </part-list>
   <!--=========================== Part 1 ===========================-->
-  <part id="P60389cd1f3f6d2ffdfb5d7a2f76fd5b2">
+  <part id="P39f4b51388be1a1a44dbfb081743b5c4">
     <!--========================= Measure 1 ==========================-->
     <measure number="1">
       <attributes>
