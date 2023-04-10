@@ -1,3 +1,6 @@
 # DH401-A1-RHYTHMGEN
 
-# Take a look at explore.ipynb to get set up and start seeing music in python.
+# Workflow in assignment2.ipynb
+# Important helper functions in helpers.py
+#
+# Any block in assignment2.ipynb is runnable immediately if you simply download the proper files from this git
