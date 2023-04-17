@@ -323,7 +323,7 @@ def levenshtein(str1, len1, str2, len2, insert_costs, delete_costs, substitute_c
         d[i,0] = d[i-1,0] + delete_costs[ord(char_i)]
     for j in range(1,len2+1):
         char_j = str2[j-1]
-        d[0,j] = d[0,j-1] + insert_costs[ord(char_i)]
+        d[0,j] = d[0,j-1] + insert_costs[ord(char_j)]
 
     for i in range(1, len1+1):
         char_i = str1[i-1]
@@ -334,7 +334,7 @@ def levenshtein(str1, len1, str2, len2, insert_costs, delete_costs, substitute_c
             else:
                 d[i,j] = min(
                     d[i-1,j] + delete_costs[ord(char_i)],
-                    d[i,j-1] + insert_costs[ord(char_i)],
+                    d[i,j-1] + insert_costs[ord(char_j)],
                     d[i-1,j-1] + substitute_costs[ord(char_i), ord(char_j)]
                 )
     ret_val = d[len1, len2]
