@@ -1,3 +1,7 @@
 # DH401-A1-RHYTHMGEN
 
-Navigate to the branches of this repo for the different assignments
+Workflow in assignment3.ipynb
+
+Important helper functions in helpers.py
+
+Both are necessary to run our code. See top of assignment3 for pointers. 
