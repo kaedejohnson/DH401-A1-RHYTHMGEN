@@ -1,4 +1,4 @@
-# DH401-A1-RHYTHMGEN
+# Assignment 3 - Score Generation
 
 Workflow in assignment3.ipynb
 
