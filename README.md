@@ -1,4 +1,4 @@
-# DH401-A1-RHYTHMGEN
+# Assignment 1 - Rhythm Generation
 
 Our 500 bigram-generated rhythms are in the folder titled bigrams_final. Alternatively, they can be generated using assignment1.ipynb and the lists in lists_for_generation on this github.      
 Our 500 randomly generated rhythms are in the folder titled randoms_final. Alternatively, they can be generated using assignment1.ipynb and the lists in lists_for_generation on this github.      
