@@ -1,4 +1,4 @@
-# DH401-A1-RHYTHMGEN
+# Assignment 2 - Melody Generation
 
 Workflow in assignment2.ipynb
 
